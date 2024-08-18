@@ -1,0 +1,10 @@
+INSERT INTO faculty (name, department) VALUES
+('Suresh', 'BCA'),
+('Ramesh', 'BCA'),
+('Chintu', 'BCA'),
+('Lalu', 'MBA'),
+('Golu', 'MBA'),
+('Neelu', 'MBA'),
+('Ritu', 'PhD'),
+('Ritu', 'PhD'),
+('Shitu', 'PhD');
