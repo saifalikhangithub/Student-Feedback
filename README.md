@@ -3,9 +3,6 @@ This is a feedback-based platform designed to help prospective students make inf
 ------------------------------------------------------
 This is a simple web-based Student Feedback System developed using PHP and MySQL. It allows students to register, log in, submit feedback for faculty members within their department, and provides a public interface to view submitted feedback.
 
-##Screenshorts
-
-
 ## Features
 
 * **Student Registration:** Students can create an account with their name, email, password, and department.
