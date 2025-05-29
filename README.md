@@ -1,5 +1,6 @@
 # Student Feedback System
-
+The Student PickPass System is a feedback-based platform designed to help prospective students make informed decisions before enrolling in a college course. Existing students can share their experiences and provide feedback on various aspects such as faculty teaching quality, infrastructure, campus environment, and course-specific strengths and weaknesses. This system offers valuable insights into which colleges are best suited for particular courses, helping students choose the right institution for their academic goals.
+------------------------------------------------------
 This is a simple web-based Student Feedback System developed using PHP and MySQL. It allows students to register, log in, submit feedback for faculty members within their department, and provides a public interface to view submitted feedback.
 
 ## Features
