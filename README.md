@@ -124,4 +124,4 @@ Contributions are welcome! If you'd like to improve this project, please feel fr
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE.md). (You would need to create a `LICENSE.md` file in your repository with the MIT license text).
+This project is open source and free to use
