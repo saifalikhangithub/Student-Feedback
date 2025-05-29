@@ -1,5 +1,5 @@
 # Student Feedback System
-The Student PickPass System is a feedback-based platform designed to help prospective students make informed decisions before enrolling in a college course. Existing students can share their experiences and provide feedback on various aspects such as faculty teaching quality, infrastructure, campus environment, and course-specific strengths and weaknesses. This system offers valuable insights into which colleges are best suited for particular courses, helping students choose the right institution for their academic goals.
+This is a feedback-based platform designed to help prospective students make informed decisions before enrolling in a college course. Existing students can share their experiences and provide feedback on various aspects such as faculty teaching quality, infrastructure, campus environment, and course-specific strengths and weaknesses. This system offers valuable insights into which colleges are best suited for particular courses, helping students choose the right institution for their academic goals.
 ------------------------------------------------------
 This is a simple web-based Student Feedback System developed using PHP and MySQL. It allows students to register, log in, submit feedback for faculty members within their department, and provides a public interface to view submitted feedback.
 
@@ -64,15 +64,16 @@ Follow these instructions to set up and run the project on your local machine.
     * You can also run the following SQL queries to populate the `faculty` table with some initial data (from `faculty data.txt`):
         ```sql
         INSERT INTO faculty (name, department) VALUES
-        ('Suresh', 'BCA'),
-        ('Ramesh', 'BCA'),
-        ('Chintu', 'BCA'),
-        ('Lalu', 'MBA'),
-        ('Golu', 'MBA'),
-        ('Neelu', 'MBA'),
-        ('Ritu', 'PhD'),
-        ('Ritu', 'PhD'),
-        ('Shitu', 'PhD');
+        ('Dr. Anil Kumar', 'BCA'),
+         ('Prof. Meera Sharma', 'MBA'),
+         ('Dr. Rakesh Singh', 'MCA'),
+         ('Prof. Neha Joshi', 'BCA'),
+         ('Dr. Amit Verma', 'MBA'),
+         ('Prof. Rekha Nair', 'MCA'),
+         ('Dr. Sunil Rao', 'BCA'),
+         ('Prof. Kavita Iyer', 'MBA'),
+         ('Dr. Manoj Desai', 'MCA'),
+         ('Prof. Priya Menon', 'BCA');
         ```
 
 3.  **Place project files on your web server:**
